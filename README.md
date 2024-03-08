@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeePui
-- 👀 I’m interested in java agent, byte code
+- 👀 I’m interested in java agent, byte code, AI
 - 🌱 I’m currently learning byte code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
